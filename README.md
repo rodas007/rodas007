@@ -1,4 +1,4 @@
-## Hola! soy Sergio Proba! ##
+## Hola! soy Sergio Proba! I'm a Full Stack Developer! ##
 </br>
 
  <div>
